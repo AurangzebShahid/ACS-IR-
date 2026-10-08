@@ -71,7 +71,6 @@ Phase II  2.1 Compilation -> 2.2 QC checks -> 2.3 Monthly progress review
 Aurangzeb, Data Manager.
 Legacy code by [WHO Technical Team, Geneva].
 
-## Licence
-
-[Choose a licence, or state "All rights reserved" if the code should not be reused.]
+## Graphical Demo
+https://github.com/AurangzebShahid/ACS-IR-/blob/main/WGA_cluster_outlier_scatter_py.png
 
